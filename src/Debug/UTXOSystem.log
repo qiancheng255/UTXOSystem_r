@@ -1,0 +1,2230 @@
+﻿  main.cpp
+C:\Users\千殇语之城\Desktop\src\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\main.cpp(11,9): warning C4005: “WIN32_LEAN_AND_MEAN”: 宏重定义
+      C:\Users\千殇语之城\Desktop\src\main.cpp(11,9):
+      之前在命令行上声明的“WIN32_LEAN_AND_MEAN”
+  
+C:\Users\千殇语之城\Desktop\src\main.cpp(12,9): warning C4005: “NOMINMAX”: 宏重定义
+      C:\Users\千殇语之城\Desktop\src\main.cpp(12,9):
+      之前在命令行上声明的“NOMINMAX”
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(71,1): error C2059: 语法错误:“private”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(74,1): error C2059: 语法错误:“public”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(77,42): error C2270: “get_utxos_for_address”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(78,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(79,82): error C2270: “get_all_utxos”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2059: 语法错误:“}”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2059: 语法错误:“}”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,24): error C3646: “encrypt_signature”: 未知重写说明符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,41): error C2059: 语法错误:“(”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(118,85): error C2238: 意外的标记位于“;”之前
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,60): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(14,1): error C2059: 语法错误:“private”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(17,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(17,14): error C2146: 语法错误: 缺少“;”(在标识符“utxo_pool”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(27,1): error C2059: 语法错误:“public”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(28,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(35,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(38,10): error C2270: “print_blockchain_info”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(41,37): error C2270: “get_transaction_pool”: 非成员函数上不允许修饰符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(48,64): error C2059: 语法错误:“)”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(48,48): error C2530: “user_private_key”: 必须初始化引用
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(49,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\credit_system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_database.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,8): error C2143: 语法错误: 缺少“}”(在“<class-head>”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,8): error C2059: 语法错误:“<class-head>”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,20): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,20): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(44,12): error C2371: “timestamp”: 重定义；不同的基类型
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(92,17):
+      参见“timestamp”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(46,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(47,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(49,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,37): error C2065: “UserAccount”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,10): error C2923: "std::unordered_map": "UserAccount" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,37):
+      参见“UserAccount”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,50): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,10): error C2923: "std::unordered_map": "BlacklistRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,54): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,70): error C2238: 意外的标记位于“;”之前
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(15,17): error C2086: “std::string sender_address”: 重定义
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(90,17):
+      参见“sender_address”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(19,12): error C2371: “timestamp”: 重定义；不同的基类型
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(92,17):
+      参见“timestamp”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,37): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,10): error C2923: "std::unordered_map": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,37):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,63): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(37,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(37,64): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,35): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,93): error C2238: 意外的标记位于“;”之前
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17): error C2327: “PendingTransactionDB::PendingTransactionRecord”: 不是类型名称、静态或枚举数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17):
+      参见“PendingTransactionDB::PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“main.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\currency_record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\privacy_utils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,10): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,13): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,14): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,10): error C2371: “std::cin”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\iostream(38,75):
+      参见“std::cin”的声明
+  
+C:\Users\千殇语之城\Desktop\src\main.cpp(31,14): error C2146: 语法错误: 缺少“;”(在标识符“clear”的前面)
+C:\Users\千殇语之城\Desktop\src\main.cpp(32,10): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\main.cpp(32,10): error C1003: 错误计数超过 100；正在停止编译
+  utxo.cpp
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(71,1): error C2059: 语法错误:“private”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(74,1): error C2059: 语法错误:“public”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(77,42): error C2270: “get_utxos_for_address”: 非成员函数上不允许修饰符
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(78,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(79,82): error C2270: “get_all_utxos”: 非成员函数上不允许修饰符
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2059: 语法错误:“}”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2059: 语法错误:“}”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,24): error C3646: “encrypt_signature”: 未知重写说明符
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,41): error C2059: 语法错误:“(”
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(118,85): error C2238: 意外的标记位于“;”之前
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,60): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“core/utxo.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(56,6): error C2653: “UTXOPool”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(60,6): error C2653: “UTXOPool”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(70,38): error C2653: “UTXOPool”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(70,48): error C2270: “get_utxos_for_address”: 非成员函数上不允许修饰符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(78,8): error C2653: “UTXOPool”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(78,18): error C2270: “get_balance”: 非成员函数上不允许修饰符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(87,78): error C2653: “UTXOPool”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(87,88): error C2270: “get_all_utxos”: 非成员函数上不允许修饰符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(110,42): error C2065: “now”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(114,9): error C2039: "data_hash": 不是 "TransactionSignature" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(83,8):
+      参见“TransactionSignature”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(117,41): error C2065: “sign_input”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(120,9): error C2039: "signer_address": 不是 "TransactionSignature" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(83,8):
+      参见“TransactionSignature”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(126,28): error C2039: "encrypt_signature": 不是 "Wallet" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(101,7):
+      参见“Wallet”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(126,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(126,28): error C2146: 语法错误: 缺少“;”(在标识符“encrypt_signature”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(128,91): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(128,91): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(150,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(150,57): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(154,9): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(165,49): error C2065: “decrypt_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(168,5): error C2059: 语法错误:“if”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(168,33): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(168,33): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(175,15): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(175,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(175,10): error C2371: “std::cout”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\iostream(39,75):
+      参见“std::cout”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(175,15): error C2059: 语法错误:“<<”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(176,15): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(176,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(176,10): error C2371: “std::cout”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\iostream(39,75):
+      参见“std::cout”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(176,15): error C2059: 语法错误:“<<”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(177,15): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(177,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(177,10): error C2371: “std::cout”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\iostream(39,75):
+      参见“std::cout”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(177,15): error C2059: 语法错误:“<<”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(178,15): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(178,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(178,10): error C2371: “std::cout”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\iostream(39,75):
+      参见“std::cout”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(178,15): error C2059: 语法错误:“<<”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(180,5): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(181,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(181,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(185,68): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(185,68): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(188,22): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(195,22): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(200,22): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(204,5): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(205,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\core\utxo.cpp(205,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  blockchain.cpp
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(71,1): error C2059: 语法错误:“private”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(74,1): error C2059: 语法错误:“public”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(77,42): error C2270: “get_utxos_for_address”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(78,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(79,82): error C2270: “get_all_utxos”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2059: 语法错误:“}”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2059: 语法错误:“}”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,24): error C3646: “encrypt_signature”: 未知重写说明符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,41): error C2059: 语法错误:“(”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(118,85): error C2238: 意外的标记位于“;”之前
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,60): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(14,1): error C2059: 语法错误:“private”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(17,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(17,14): error C2146: 语法错误: 缺少“;”(在标识符“utxo_pool”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(27,1): error C2059: 语法错误:“public”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(28,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(35,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(38,10): error C2270: “print_blockchain_info”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(41,37): error C2270: “get_transaction_pool”: 非成员函数上不允许修饰符
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(48,64): error C2059: 语法错误:“)”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(48,48): error C2530: “user_private_key”: 必须初始化引用
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\blockchain.h(49,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“core/blockchain.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(9,1): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(9,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(9,97): error C2550: “Blockchain”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(11,1): warning C4508: “Blockchain”: 函数应返回一个值；假定“void”返回类型
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(13,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(22,9): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(35,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(72,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(75,30): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(76,30): error C2530: “pair”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(76,30): error C3531: “pair”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(76,35): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(76,37): error C3536: “all_utxos”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(76,46): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(77,34): error C2530: “utxo”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(77,34): error C3531: “utxo”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(77,39): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(77,52): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(80,25): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(91,13): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(96,14): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(99,25): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(101,22): error C2530: “utxo”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(101,22): error C3531: “utxo”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(101,27): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(101,29): error C3536: “sender_utxos”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(101,41): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29): error C2672: “begin”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1982,27):
+      可能是“_Ty *std::begin(_Ty (&)[_Size]) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          “_Ty *std::begin(_Ty (&)[_Size]) noexcept”: 无法从“int”推导出“_Ty (&)[_Size]”的 模板 参数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1964,30):
+      或    “unknown-type std::begin(const _Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          未能使函数模板“unknown-type std::begin(const _Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1965,23):
+              “.begin”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1965,23):
+                  类型是“const _Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1958,30):
+      或    “unknown-type std::begin(_Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          未能使函数模板“unknown-type std::begin(_Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1959,23):
+              “.begin”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1959,23):
+                  类型是“_Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\initializer_list(54,35):
+      或    “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”: 无法从“int”推导出“std::initializer_list<_Elem>”的 模板 参数
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29): error C2672: “end”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1987,27):
+      可能是“_Ty *std::end(_Ty (&)[_Size]) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          “_Ty *std::end(_Ty (&)[_Size]) noexcept”: 无法从“int”推导出“_Ty (&)[_Size]”的 模板 参数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1976,30):
+      或    “unknown-type std::end(const _Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          未能使函数模板“unknown-type std::end(const _Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1977,23):
+              “.end”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1977,23):
+                  类型是“const _Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1970,30):
+      或    “unknown-type std::end(_Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          未能使函数模板“unknown-type std::end(_Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1971,23):
+              “.end”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1971,23):
+                  类型是“_Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\initializer_list(59,35):
+      或    “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29):
+          “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”: 无法从“int”推导出“std::initializer_list<_Elem>”的 模板 参数
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29): error C3536: “<begin>$L0”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,29): error C3536: “<end>$L0”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(114,41): error C2100: 无法取消引用类型为“int”的操作数
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,24): error C2665: “std::vector<UTXO,std::allocator<UTXO>>::push_back”: 没有重载函数可以转换所有参数类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(870,23):
+      可能是“void std::vector<UTXO,std::allocator<UTXO>>::push_back(_Ty &&)”
+          with
+          [
+              _Ty=UTXO
+          ]
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,24):
+          “void std::vector<UTXO,std::allocator<UTXO>>::push_back(_Ty &&)”: 无法将参数 1 从“const int”转换为“_Ty &&”
+          with
+          [
+              _Ty=UTXO
+          ]
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+              原因如下: 无法从“const int”转换为“_Ty”
+          with
+          [
+              _Ty=UTXO
+          ]
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+              “UTXO::UTXO”: 没有重载函数可以转换所有参数类型
+                  C:\Users\千殇语之城\Desktop\src\include\utxo.h(31,1):
+                  可能是“UTXO::UTXO(UTXO &&)”
+                      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                      “UTXO::UTXO(UTXO &&)”: 无法将参数 1 从“const int”转换为“UTXO &&”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          原因如下: 无法从“const int”转换为“UTXO”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Users\千殇语之城\Desktop\src\include\utxo.h(31,1):
+                  或    “UTXO::UTXO(const UTXO &)”
+                      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                      “UTXO::UTXO(const UTXO &)”: 无法将参数 1 从“const int”转换为“const UTXO &”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          原因如下: 无法从“const int”转换为“const UTXO”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                  尝试匹配参数列表“(const int)”时
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(866,23):
+      或    “void std::vector<UTXO,std::allocator<UTXO>>::push_back(const _Ty &)”
+          with
+          [
+              _Ty=UTXO
+          ]
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,24):
+          “void std::vector<UTXO,std::allocator<UTXO>>::push_back(const _Ty &)”: 无法将参数 1 从“const int”转换为“const _Ty &”
+          with
+          [
+              _Ty=UTXO
+          ]
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+              原因如下: 无法从“const int”转换为“const _Ty”
+          with
+          [
+              _Ty=UTXO
+          ]
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+              “UTXO::UTXO”: 没有重载函数可以转换所有参数类型
+                  C:\Users\千殇语之城\Desktop\src\include\utxo.h(31,1):
+                  可能是“UTXO::UTXO(UTXO &&)”
+                      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                      “UTXO::UTXO(UTXO &&)”: 无法将参数 1 从“const int”转换为“UTXO &&”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          原因如下: 无法从“const int”转换为“UTXO”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Users\千殇语之城\Desktop\src\include\utxo.h(31,1):
+                  或    “UTXO::UTXO(const UTXO &)”
+                      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                      “UTXO::UTXO(const UTXO &)”: 无法将参数 1 从“const int”转换为“const UTXO &”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          原因如下: 无法从“const int”转换为“const UTXO”
+                          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,34):
+                  尝试匹配参数列表“(const int)”时
+      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(116,24):
+      尝试匹配参数列表“(const int)”时
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,9): error C2065: “EncryptedSignature”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,28): error C2146: 语法错误: 缺少“;”(在标识符“enc_sig”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,28): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,45): error C2039: "encrypt_signature": 不是 "Wallet" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(101,7):
+      参见“Wallet”的声明
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,63): error C2065: “tx_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(134,90): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(137,26): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(138,26): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(139,26): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(140,26): error C2065: “enc_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(143,50): error C2065: “tx_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(144,44): error C2065: “tx_sig”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(145,22): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(147,9): error C2146: 语法错误: 缺少“;”(在标识符“tx”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(159,9): error C2664: “bool validate_transaction(const Transaction &,const std::unordered_set<UTXO,UTXO::Hash,std::equal_to<UTXO>,std::allocator<UTXO>> &)”: 无法将参数 2 从“int”转换为“const std::unordered_set<UTXO,UTXO::Hash,std::equal_to<UTXO>,std::allocator<UTXO>> &”
+      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(159,34):
+      原因如下: 无法从“int”转换为“const std::unordered_set<UTXO,UTXO::Hash,std::equal_to<UTXO>,std::allocator<UTXO>>”
+      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(159,34):
+      class“std::unordered_set<UTXO,UTXO::Hash,std::equal_to<UTXO>,std::allocator<UTXO>>”的构造函数声明为“explicit”
+      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(35,18):
+      参见“validate_transaction”的声明
+      C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(159,9):
+      尝试匹配参数列表“(Transaction, int)”时
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(172,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(201,8): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(201,20): error C2270: “get_balance”: 非成员函数上不允许修饰符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(202,12): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(205,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(209,9): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(213,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(214,26): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(215,22): error C2530: “utxo”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(215,22): error C3531: “utxo”: 类型包含“auto”的符号必须具有初始值设定项
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(215,27): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(215,29): error C3536: “savings_utxos”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(215,42): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(217,13): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(223,6): error C2653: “Blockchain”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(223,18): error C2270: “print_blockchain_info”: 非成员函数上不允许修饰符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(230,46): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(233,29): error C2065: “utxo_pool”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(233,27): error C2530: “all_utxos”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29): error C3536: “all_utxos”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29): error C2672: “begin”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1982,27):
+      可能是“_Ty *std::begin(_Ty (&)[_Size]) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          “_Ty *std::begin(_Ty (&)[_Size]) noexcept”: 无法从“int”推导出“_Ty (&)[_Size]”的 模板 参数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1964,30):
+      或    “unknown-type std::begin(const _Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          未能使函数模板“unknown-type std::begin(const _Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1965,23):
+              “.begin”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1965,23):
+                  类型是“const _Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1958,30):
+      或    “unknown-type std::begin(_Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          未能使函数模板“unknown-type std::begin(_Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1959,23):
+              “.begin”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1959,23):
+                  类型是“_Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\initializer_list(54,35):
+      或    “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          “const _Elem *std::begin(std::initializer_list<_Elem>) noexcept”: 无法从“int”推导出“std::initializer_list<_Elem>”的 模板 参数
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29): error C2672: “end”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1987,27):
+      可能是“_Ty *std::end(_Ty (&)[_Size]) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          “_Ty *std::end(_Ty (&)[_Size]) noexcept”: 无法从“int”推导出“_Ty (&)[_Size]”的 模板 参数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1976,30):
+      或    “unknown-type std::end(const _Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          未能使函数模板“unknown-type std::end(const _Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1977,23):
+              “.end”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1977,23):
+                  类型是“const _Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1970,30):
+      或    “unknown-type std::end(_Container &) noexcept(<expr>)”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          未能使函数模板“unknown-type std::end(_Container &) noexcept(<expr>)”专用化
+              C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+              用下列模板参数:
+                  C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+                  “_Container=int”
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1971,23):
+              “.end”的左边必须有类/结构/联合
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xutility(1971,23):
+                  类型是“_Container”
+          with
+          [
+              _Container=int
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\initializer_list(59,35):
+      或    “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”
+          C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29):
+          “const _Elem *std::end(std::initializer_list<_Elem>) noexcept”: 无法从“int”推导出“std::initializer_list<_Elem>”的 模板 参数
+  
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29): error C3536: “<begin>$L0”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,29): error C3536: “<end>$L0”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(234,38): error C2100: 无法取消引用类型为“int”的操作数
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(236,26): error C2530: “utxo”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\core\blockchain.cpp(236,26): error C1003: 错误计数超过 100；正在停止编译
+  crypto.cpp
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“crypto/crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(29,42): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(30,13): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(30,13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(46,42): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(47,13): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(47,13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(77,38): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(78,9): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(78,9): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(95,42): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(96,13): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\crypto.cpp(96,13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  rsa_crypto.cpp
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(26,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(26,16): error C2146: 语法错误: 缺少“;”(在标识符“generate_key_pair”的前面)
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(82,1): error C2059: 语法错误:“}”
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(82,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(10,18): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(10,18): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“crypto/rsa_crypto.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(19,9): error C2059: 语法错误:“字符串”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(39,31): error C2065: “base64_chars”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(53,27): error C2065: “base64_chars”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(75,66): error C2065: “base64_chars”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(89,62): error C2065: “base64_chars”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(102,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(102,20): error C2146: 语法错误: 缺少“;”(在标识符“key_pair”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,9): error C2059: 语法错误:“for”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,23): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,27): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,34): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,33): error C2086: “int RSACrypto::i”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,25):
+      参见“RSACrypto::i”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,36): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,38): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,38): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,9): error C2059: 语法错误:“for”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,23): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,27): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,25): error C2086: “int RSACrypto::i”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,25):
+      参见“RSACrypto::i”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,34): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,33): error C2086: “int RSACrypto::i”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(111,25):
+      参见“RSACrypto::i”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,36): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,38): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(117,38): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,17): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,18): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,18): error C2146: 语法错误: 缺少“;”(在标识符“private_key”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,32): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,17): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,18): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,9): error C2086: “int RSACrypto::key_pair”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,9):
+      参见“RSACrypto::key_pair”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,18): error C2146: 语法错误: 缺少“;”(在标识符“public_key”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(123,31): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,17): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,18): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,9): error C2086: “int RSACrypto::key_pair”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(122,9):
+      参见“RSACrypto::key_pair”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,18): error C2146: 语法错误: 缺少“;”(在标识符“key_id”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(126,27): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(128,9): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(132,51): error C2530: “data”: 必须初始化引用
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(133,49): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(133,43): error C2226: 语法错误: 意外的“std::string”类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(133,32): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(133,60): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(133,51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(134,9): error C2275: “DigitalSignature”: 应为表达式而不是类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(134,26): error C2146: 语法错误: 缺少“)”(在标识符“sig”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,12): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,13): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,13): error C2146: 语法错误: 缺少“;”(在标识符“signer_id”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,12): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,13): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,9): error C2086: “int sig”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9):
+      参见“sig”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,13): error C2146: 语法错误: 缺少“;”(在标识符“data_hash”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(138,25): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(142,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(142,9): error C2365: “ctime_s”: 重定义；以前的定义是“函数”
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h(566,47):
+      参见“ctime_s”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(142,46): error C2065: “now”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,12): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,13): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,9): error C2086: “int sig”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9):
+      参见“sig”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(143,13): error C2146: 语法错误: 缺少“;”(在标识符“timestamp”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,9): error C3927: "->": 非函数声明符后不允许尾随返回类型
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,12): error C3484: 语法错误: 返回类型前应为“->”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,13): error C3613: “->”后缺少返回类型(假定为“int”)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,9): error C2086: “int sig”: 重定义
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9):
+      参见“sig”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,13): error C2146: 语法错误: 缺少“;”(在标识符“signature”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(146,25): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(148,9): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(149,5): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(149,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(154,62): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(154,62): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(172,33): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(172,41): error C3861: “sha256”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(184,16): error C2653: “Crypto”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(184,24): error C3861: “sha256”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(190,26): error C2371: “sig”: 重定义；不同的基类型
+      C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(135,9):
+      参见“sig”的声明
+  
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(190,42): error C2065: “private_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(191,9): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(192,5): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(192,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(194,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\rsa_crypto.cpp(194,1): error C2059: 语法错误:“}”
+  privacy_utils.cpp
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\privacy_utils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“crypto/privacy_utils.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“crypto/privacy_utils.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(22,9): error C2065: “now”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(21,31): error C2672: “std::chrono::duration_cast”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\__msvc_chrono.hpp(87,19):
+      可能是“_To std::chrono::duration_cast(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)”
+  
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(25,25): error C3861: “rd”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(30,5): error C2065: “ss”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(30,11): error C3536: “nanos”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(31,24): error C2065: “ss”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(50,32): error C3861: “generate_anonymous_address_internal”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(109,25): error C3861: “rd”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(132,9): error C2065: “now”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(131,31): error C2672: “std::chrono::duration_cast”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\__msvc_chrono.hpp(87,19):
+      可能是“_To std::chrono::duration_cast(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)”
+  
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(135,25): error C3861: “rd”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(140,8): error C2143: 语法错误: 缺少“;”(在“<<”的前面)
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(140,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(140,8): error C2059: 语法错误:“<<”
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(147,5): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(148,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\crypto\privacy_utils.cpp(148,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  user_database.cpp
+C:\Users\千殇语之城\Desktop\src\database\user_database.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\user_database.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/user_database.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\database\user_database.cpp(266,35): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\database\user_database.cpp(268,5): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+  user_auth.cpp
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,8): error C2143: 语法错误: 缺少“}”(在“<class-head>”的前面)
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,8): error C2059: 语法错误:“<class-head>”
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,20): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(25,20): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(46,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(47,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(49,1): error C2059: 语法错误:“}”
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(49,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,37): error C2065: “UserAccount”: 未声明的标识符
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,10): error C2923: "std::unordered_map": "UserAccount" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/user_auth.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,37):
+      参见“UserAccount”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“database/user_auth.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(54,50): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/user_auth.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,10): error C2923: "std::unordered_map": "BlacklistRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“database/user_auth.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(55,54): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/user_auth.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,22): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,70): error C2238: 意外的标记位于“;”之前
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/user_auth.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(14,1): error C2653: “UserAccount”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(14,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(14,59): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(14,71): error C2065: “ACTIVE”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(15,94): error C2550: “UserAccount”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(15,95): warning C4508: “UserAccount”: 函数应返回一个值；假定“void”返回类型
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(17,1): error C2653: “UserAccount”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(17,14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(20,14): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(20,26): error C2065: “ACTIVE”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(21,47): error C2550: “UserAccount”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(21,48): warning C4508: “UserAccount”: 函数应返回一个值；假定“void”返回类型
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(24,1): error C2653: “BlacklistRecord”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(24,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(24,53): error C2550: “BlacklistRecord”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(24,54): warning C4508: “BlacklistRecord”: 函数应返回一个值；假定“void”返回类型
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(26,1): error C2653: “BlacklistRecord”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(26,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(28,97): error C2550: “BlacklistRecord”: 构造函数初始值设定项列表只能在构造函数定义中使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(28,98): warning C4508: “BlacklistRecord”: 函数应返回一个值；假定“void”返回类型
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(31,28): error C2512: “std::unordered_map”: 没有合适的默认构造函数可用
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(31,28): error C2789: “AuthManager::UserAccount”: 必须初始化常量限定类型的对象
+      C:\Users\千殇语之城\Desktop\src\include\user_auth.h(91,11):
+      参见“AuthManager::UserAccount”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(47,18): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(47,45): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(52,17): error C2146: 语法错误: 缺少“;”(在标识符“new_account”的前面)
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(52,17): error C3861: “new_account”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5): error C2678: 二进制“[”: 没有找到接受“std::unordered_map”类型的左操作数的运算符(或没有可接受的转换)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(432,18):
+      可能是“_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](const _Kty &)”
+          C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+          “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](const _Kty &)”: 不能将“this”指针从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc> &”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+              原因如下: 无法从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+              转换要求第二个用户定义的转换运算符或构造函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(259,18):
+      或    “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](_Kty &&)”
+          C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+          “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](_Kty &&)”: 不能将“this”指针从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc> &”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+              原因如下: 无法从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+              转换要求第二个用户定义的转换运算符或构造函数
+      C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,5):
+      尝试匹配参数列表“(std::unordered_map, const std::string)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(53,26): error C2065: “new_account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(61,18): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(61,45): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(66,17): error C2146: 语法错误: 缺少“;”(在标识符“new_account”的前面)
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(66,77): error C2838: “ADMIN”: 成员声明中的限定名称非法
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(66,77): error C2065: “ADMIN”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(66,17): error C3861: “new_account”: 找不到标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5): error C2678: 二进制“[”: 没有找到接受“std::unordered_map”类型的左操作数的运算符(或没有可接受的转换)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(432,18):
+      可能是“_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](const _Kty &)”
+          C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+          “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](const _Kty &)”: 不能将“this”指针从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc> &”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+              原因如下: 无法从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+              转换要求第二个用户定义的转换运算符或构造函数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(259,18):
+      或    “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](_Kty &&)”
+          C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+          “_Ty &std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>::operator [](_Kty &&)”: 不能将“this”指针从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc> &”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+              原因如下: 无法从“std::unordered_map”转换为“std::unordered_map<_Kty,_Ty,_Hasher,_Keyeq,_Alloc>”
+              C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+              转换要求第二个用户定义的转换运算符或构造函数
+      C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,5):
+      尝试匹配参数列表“(std::unordered_map, const std::string)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(67,26): error C2065: “new_account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(76,24): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(77,9): error C3536: “it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(77,24): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(81,18): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(83,9): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(83,27): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(83,39): error C2065: “BLACKLISTED”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(87,9): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(87,27): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(87,39): error C2065: “SUSPENDED”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(91,36): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(91,10): error C2660: “AuthManager::verify_password”: 函数不接受 1 个参数
+      C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(39,19):
+      参见“AuthManager::verify_password”的声明
+      C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(91,10):
+      尝试匹配参数列表“(const std::string)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(92,9): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(96,5): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(97,5): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(109,24): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(110,9): error C3536: “it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(110,24): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(111,37): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(111,49): error C2065: “BLACKLISTED”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(119,29): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(120,27): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(122,9): error C3536: “from_it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(122,29): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(122,38): error C3536: “to_it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(122,56): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(126,35): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(126,47): error C2065: “ACTIVE”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(127,33): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(127,45): error C2065: “ACTIVE”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(141,24): error C2039: "find": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(142,9): error C3536: “it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(142,24): error C2039: "end": 不是 "std::unordered_map" 的成员
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(143,16): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(144,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(146,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(146,22): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(146,24): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(149,31): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(150,28): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,29): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,55): error C2838: “ADMIN”: 成员声明中的限定名称非法
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,55): error C2065: “ADMIN”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,63): error C3872: “0xe1c0”: 此字符不允许在标识符中使用
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,63): error C3688: 文本后缀“鏅€氱敤鎴”无效；未找到文文本运算符或文本运算符模板“operator """"鏅€氱敤鎴”
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(151,100): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(153,13): error C2065: “account”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(154,14): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(154,26): error C2065: “ACTIVE”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(154,26): error C2131: 表达式的计算结果不是常数
+      C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(154,26):
+      遇到非常量(子)表达式
+  
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(155,14): error C2653: “UserStatus”: 不是类或命名空间名称
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(155,26): error C2065: “SUSPENDED”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\user_auth.cpp(155,26): error C1003: 错误计数超过 100；正在停止编译
+  pending_transaction.cpp
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(71,1): error C2059: 语法错误:“private”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(74,1): error C2059: 语法错误:“public”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(77,42): error C2270: “get_utxos_for_address”: 非成员函数上不允许修饰符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(78,12): error C2270: “get_balance”: 非成员函数上不允许修饰符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(79,82): error C2270: “get_all_utxos”: 非成员函数上不允许修饰符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2059: 语法错误:“}”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(80,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2059: 语法错误:“}”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(93,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2059: 语法错误:“}”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(98,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,24): error C3646: “encrypt_signature”: 未知重写说明符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(116,41): error C2059: 语法错误:“(”
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(118,85): error C2238: 意外的标记位于“;”之前
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\utxo.h(121,60): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(15,17): error C2086: “std::string sender_address”: 重定义
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(90,17):
+      参见“sender_address”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(19,12): error C2371: “timestamp”: 重定义；不同的基类型
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\utxo.h(92,17):
+      参见“timestamp”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,37): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,10): error C2923: "std::unordered_map": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,37):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,10): error C2976: “std::unordered_map'”: 模板 参数太少
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(28,63): error C2955: “std::unordered_map”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(37,34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(37,64): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(42,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(46,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(50,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,35): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,93): error C2238: 意外的标记位于“;”之前
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17): error C2327: “PendingTransactionDB::PendingTransactionRecord”: 不是类型名称、静态或枚举数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17):
+      参见“PendingTransactionDB::PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17): error C2065: “PendingTransactionRecord”: 未声明的标识符
+  (编译源文件“database/pending_transaction.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,10): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,17):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,10): error C2976: “std::vector'”: 模板 参数太少
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(79,43): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“database/pending_transaction.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(12,46): error C2512: “std::unordered_map”: 没有合适的默认构造函数可用
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(61,7):
+      参见“std::unordered_map”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(12,46): error C2789: “PendingTransactionDB::PendingTransactionRecord”: 必须初始化常量限定类型的对象
+      C:\Users\千殇语之城\Desktop\src\include\pending_transaction.h(63,11):
+      参见“PendingTransactionDB::PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(14,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(14,82): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(18,5): error C2065: “user_pending_txs”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(18,22): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(18,46): error C7732: expected an expression before ']'
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(18,58): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(22,62): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(23,43): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(24,40): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(25,37): error C2065: “record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,13): error C2065: “PendingTransactionRecord”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,6): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+      C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,13):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,6): error C2976: “std::vector'”: 模板 参数太少
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,61): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(28,61): error C2079: “PendingTransactionDB::get_user_pending_transactions”使用未定义的 class“std::vector”
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(31,15): error C2065: “user_pending_txs”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(32,9): error C3536: “it”: 初始化之前无法使用
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(32,15): error C2065: “user_pending_txs”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(35,5): error C2512: “std::vector”: 没有合适的默认构造函数可用
+      C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(35,5):
+      “std::vector<_Ty,_Alloc>::vector(std::initializer_list<_Elem>,const _Alloc &)”: 不能将“this”指针从“std::vector”转换为“std::vector<_Ty,_Alloc> &”
+          C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(35,5):
+          原因如下: 无法从“std::vector”转换为“std::vector<_Ty,_Alloc>”
+          C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(35,5):
+          转换要求第二个用户定义的转换运算符或构造函数
+          C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(35,5):
+          尝试匹配参数列表“(initializer list)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,13): error C2065: “PendingTransactionRecord”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,6): error C2923: "std::vector": "PendingTransactionRecord" 不是参数 "_Ty" 的有效 模板 类型参数
+      C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,13):
+      参见“PendingTransactionRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,6): error C2976: “std::vector'”: 模板 参数太少
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,61): error C2955: “std::vector”: 使用 类 模板 需要 模板 参数列表
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(38,61): error C2079: “PendingTransactionDB::get_pending_received_transactions”使用未定义的 class“std::vector”
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(41,10): error C2974: “std::vector”:“_Ty”的 模板 参数无效，应为类型
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(41,10): error C2976: “std::vector'”: 模板 参数太少
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(429,7):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(41,43): error C2641: 无法推导“std::vector”的模板参数
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(41,43): error C2783: “std::vector<_Ty,_Alloc> std::vector(void) noexcept(<expr>)”: 无法推导“_Ty”的 模板 参数
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\vector(601,5):
+      参见“std::vector”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\pending_transaction.cpp(41,43): error C1003: 错误计数超过 100；正在停止编译
+  currency_record.cpp
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\currency_record.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(26,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(26,16): error C2146: 语法错误: 缺少“;”(在标识符“generate_key_pair”的前面)
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(82,1): error C2059: 语法错误:“}”
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(82,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(10,18): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(10,18): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“database/currency_record.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(19,27): error C2614: “UserBalanceRecord”: 非法的成员初始化:“frozen_balance”不是基或成员
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(20,7): error C2614: “UserBalanceRecord”: 非法的成员初始化:“total_transactions”不是基或成员
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(23,47): error C2614: “UserBalanceRecord”: 非法的成员初始化:“frozen_balance”不是基或成员
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(24,7): error C2614: “UserBalanceRecord”: 非法的成员初始化:“total_transactions”不是基或成员
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(40,5): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(40,25): error C2065: “key_pair”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(41,26): error C2065: “key_pair”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(42,21): error C2065: “key_pair”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(59,48): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(62,45): error C2039: "encrypt_with_public_key": 不是 "RSACrypto" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(12,11):
+      参见“RSACrypto”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(63,9): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(66,9): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(66,41): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(72,24): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(73,12): error C2039: "encrypted_tx_hash": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(74,34): error C2065: “encrypted_ts”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(75,12): error C2039: "rsa_public_key": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(75,29): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(76,12): error C2039: "rsa_key_id": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(90,21): error C2039: "total_transactions": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(91,21): error C2039: "record_ids": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(95,28): error C2039: "total_transactions": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(96,47): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(97,28): error C2039: "record_ids": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(126,48): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(129,45): error C2039: "encrypt_with_public_key": 不是 "RSACrypto" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(12,11):
+      参见“RSACrypto”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(130,9): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(133,9): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(133,41): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(136,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(137,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(138,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(138,31): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(139,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(140,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(140,41): error C2065: “encrypted_ts”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(141,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(141,36): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(142,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(143,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(144,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(145,5): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(148,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(149,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(150,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(150,33): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(151,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(152,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(152,43): error C2065: “encrypted_ts”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(153,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(153,38): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(154,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(155,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(156,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(157,5): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,23): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46): error C7732: expected an expression before ']'
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,5): error C2679: 二元“[”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(432,18):
+      可能是“EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,5):
+          “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”: 无法将参数 2 从“int”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+              原因如下: 无法从“int”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+              “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string”: 没有重载函数可以转换所有参数类型
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(749,5):
+                  可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”: 无法将参数 1 从“int”转换为“const _Elem *const ”
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                          从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1327,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”: 无法将参数 1 从“int”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1138,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(779,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(773,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(756,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(743,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                  尝试匹配参数列表“(int)”时
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(259,18):
+      或    “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&)”
+          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,5):
+          “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&)”: 无法将参数 2 从“int”转换为“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+              原因如下: 无法从“int”转换为“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+              “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string”: 没有重载函数可以转换所有参数类型
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(749,5):
+                  可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”: 无法将参数 1 从“int”转换为“const _Elem *const ”
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                          从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1327,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”: 无法将参数 1 从“int”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1138,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(779,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(773,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(756,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(743,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,46):
+                  尝试匹配参数列表“(int)”时
+      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,5):
+      尝试匹配参数列表“(std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>, int)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(160,50): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,23): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48): error C7732: expected an expression before ']'
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,5): error C2679: 二元“[”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(432,18):
+      可能是“EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,5):
+          “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”: 无法将参数 2 从“int”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+              原因如下: 无法从“int”转换为“const std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+              “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string”: 没有重载函数可以转换所有参数类型
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(749,5):
+                  可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”: 无法将参数 1 从“int”转换为“const _Elem *const ”
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                          从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1327,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”: 无法将参数 1 从“int”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1138,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(779,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(773,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(756,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(743,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                  尝试匹配参数列表“(int)”时
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\unordered_map(259,18):
+      或    “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&)”
+          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,5):
+          “EncryptedCurrencyRecord &std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>::operator [](std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&)”: 无法将参数 2 从“int”转换为“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+              原因如下: 无法从“int”转换为“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+              C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+              “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string”: 没有重载函数可以转换所有参数类型
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(749,5):
+                  可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”: 无法将参数 1 从“int”转换为“const _Elem *const ”
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                          从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1327,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                      “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”: 无法将参数 1 从“int”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                          C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                          转换要求第二个用户定义的转换运算符或构造函数
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(1138,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Ty &,const unsigned __int64,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(779,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(773,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const unsigned __int64,const _Elem,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(756,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\xstring(743,5):
+                  或    “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const ,const unsigned __int64,const _Alloc &)”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,48):
+                  尝试匹配参数列表“(int)”时
+      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,5):
+      尝试匹配参数列表“(std::unordered_map<std::string,EncryptedCurrencyRecord,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,EncryptedCurrencyRecord>>>, int)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(161,52): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(162,44): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(163,46): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(167,23): error C2039: "total_transactions": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(168,42): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(169,23): error C2039: "record_ids": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(169,44): error C2065: “sender_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(172,9): error C2065: “receiver_it”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(175,21): error C2039: "total_transactions": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(176,40): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(177,21): error C2039: "record_ids": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(177,42): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(180,9): error C2065: “receiver_it”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(181,9): error C2065: “receiver_it”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(182,9): error C2065: “receiver_it”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(182,48): error C2065: “timestamp”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(183,9): error C2065: “receiver_it”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(183,50): error C2065: “receiver_record”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(230,9): error C2065: “new_balance”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(231,34): error C2065: “new_balance”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(253,16): error C2039: "encrypted_tx_hash": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(258,16): error C2039: "rsa_key_id": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(275,45): error C2039: "decrypt_with_private_key": 不是 "RSACrypto" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(12,11):
+      参见“RSACrypto”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(276,29): error C2039: "encrypted_tx_hash": 不是 "EncryptedCurrencyRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(18,8):
+      参见“EncryptedCurrencyRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(275,45): error C2660: “decrypt_with_private_key”: 函数不接受 1 个参数
+      C:\Users\千殇语之城\Desktop\src\include\rsa_crypto.h(57,17):
+      参见“decrypt_with_private_key”的声明
+      C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(275,45):
+      尝试匹配参数列表“(const std::string)”时
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(279,48): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(282,35): error C2065: “decrypted_ts”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(286,12): error C2065: “system_public_key”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(314,49): error C2039: "frozen_balance": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(315,74): error C2039: "frozen_balance": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(316,49): error C2039: "total_transactions": 不是 "UserBalanceRecord" 的成员
+      C:\Users\千殇语之城\Desktop\src\include\currency_record.h(33,8):
+      参见“UserBalanceRecord”的声明
+  
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(323,15): error C2001: 常量中有换行符
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(324,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\database\currency_record.cpp(324,5): error C1003: 错误计数超过 100；正在停止编译
+  credit_system.cpp
+C:\Users\千殇语之城\Desktop\src\system\credit_system.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\credit_system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system/credit_system.cpp”)
+  
+  merkle_tree.cpp
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\千殇语之城\Desktop\src\include\merkle_tree.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system/merkle_tree.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\include\crypto.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“system/merkle_tree.cpp”)
+  
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(22,38): error C2614: “MerkleProofNode”: 非法的成员初始化:“is_left”不是基或成员
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(25,16): error C2614: “MerkleProofNode”: 非法的成员初始化:“is_left”不是基或成员
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(36,5): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(46,9): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(48,9): error C2065: “leaf_nodes”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(52,9): error C2065: “leaf_nodes”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(52,30): error C2065: “leaf_nodes”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(56,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(56,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(59,53): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(59,53): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,5): error C2059: 语法错误:“for”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,22): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,26): error C2059: 语法错误:“<”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,44): error C2143: 语法错误: 缺少“;”(在“+=”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,42): error C2086: “int i”: 重定义
+      C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,24):
+      参见“i”的声明
+  
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,44): error C2059: 语法错误:“+=”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,48): error C2059: 语法错误:“)”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,50): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(71,50): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(83,5): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(84,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(84,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(86,47): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(86,47): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(94,12): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(100,27): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(105,25): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(105,5): error C2660: “MerkleTree::collect_proof”: 函数不接受 3 个参数
+      C:\Users\千殇语之城\Desktop\src\include\merkle_tree.h(52,10):
+      参见“MerkleTree::collect_proof”的声明
+      C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(105,5):
+      尝试匹配参数列表“(const std::shared_ptr<MerkleNode>, std::vector<MerkleProofNode,std::allocator<MerkleProofNode>>, int)”时
+  
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(123,5): error C2059: 语法错误:“if”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(123,67): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(123,67): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(132,5): error C2059: 语法错误:“if”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(132,68): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(132,68): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(140,5): error C2059: 语法错误:“return”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(141,1): error C2059: 语法错误:“}”
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(141,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(145,64): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(145,64): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(164,47): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(183,47): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(186,5): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(189,13): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(190,30): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(190,30): error C2119: "<structured binding>": 无法从空的初始值设定项推导 "auto" 的类型
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(190,30): error C3617: 结构化绑定的初始值设定项必须是数组或非联合类类型；不允许 "int" 类型
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(191,9): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(195,23): error C2593: “operator <<”不明确
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(486,39):
+      可能是“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(454,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(436,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(418,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(400,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(382,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(364,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(346,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(328,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(309,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(283,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(264,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(230,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(212,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(206,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(200,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(195,39):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(481,20):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<<void>(std::nullptr_t)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(694,32):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(738,32):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(774,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(819,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(936,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(942,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(947,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(953,31):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)”
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.42.34433\include\ostream(1088,32):
+      或    “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)”
+      C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(195,23):
+      尝试匹配参数列表“(std::basic_ostream<char,std::char_traits<char>>, unknown-type)”时
+  
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(201,29): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(202,30): error C2065: “q”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(210,28): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(211,44): error C2065: “leaves”: 未声明的标识符
+C:\Users\千殇语之城\Desktop\src\system\merkle_tree.cpp(216,12): error C2065: “leaves”: 未声明的标识符
+  正在生成代码...
